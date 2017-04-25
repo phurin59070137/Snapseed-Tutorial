@@ -1125,6 +1125,10 @@ img {
   max-width: 100%;
   height: auto;
 }
+.video{
+  display: block;
+  max-width: 100%;
+}
 .img-rounded {
   border-radius: 6px;
 }
