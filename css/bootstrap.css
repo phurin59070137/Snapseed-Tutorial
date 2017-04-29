@@ -1278,7 +1278,7 @@ h2,
 }
 h3,
 .h3 {
-  font-size: 24px;
+  font-size: 22px;
 }
 h4,
 .h4 {
@@ -1297,7 +1297,7 @@ p {
 }
 .lead {
   margin-bottom: 20px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
   line-height: 1.4;
 }

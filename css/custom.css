@@ -18,7 +18,7 @@ a:focus {
 }
 
 p {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 1.5;
 }
 
@@ -526,4 +526,10 @@ img::-moz-selection {
   display: block;
   max-height: auto;
   max-width: 100%;
+}
+.lead {
+  margin-bottom: 20px;
+  font-size: 15.25px;
+  font-weight: 300;
+  line-height: 1.4;
 }
