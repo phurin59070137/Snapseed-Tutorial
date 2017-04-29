@@ -431,13 +431,6 @@ img::-moz-selection {
     background-color: yellowgreen;
 }
 
-
-
-
-
-
-
-
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     background-color: black;
@@ -527,4 +520,10 @@ img::-moz-selection {
     .navbar-default.affix .nav>li>a:focus:hover {
         color: yellowgreen;
     }
+}
+
+.video{
+  display: block;
+  max-height: auto;
+  max-width: 100%;
 }
